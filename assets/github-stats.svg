@@ -35,11 +35,11 @@
   />
 
   <text x="30" y="40" class="title">
-    My activities on public repositories
+    GitHub Activity
   </text>
 
   <text x="75" y="95" text-anchor="middle" class="number">
-    73
+    74
   </text>
 
   <text x="75" y="120" text-anchor="middle" class="label">
