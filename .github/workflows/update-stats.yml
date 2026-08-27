@@ -89,7 +89,7 @@ jobs:
             />
 
             <text x="30" y="40" class="title">
-              GitHub Activity
+              On public repositories
             </text>
 
             <text x="75" y="95" text-anchor="middle" class="number">
