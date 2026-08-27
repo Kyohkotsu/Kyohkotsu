@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 ## Github Stats ...
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassaanBahsoun&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyohkotsu&theme=radical" alt="GitHub Streak" />
 </p>
