@@ -1,1 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600"
+     height="160"
+     viewBox="0 0 600 160">
 
+  <style>
+    .title {
+      font: 600 20px sans-serif;
+      fill: #f0f6fc;
+    }
+
+    .number {
+      font: 700 24px sans-serif;
+      fill: #58a6ff;
+    }
+
+    .label {
+      font: 14px sans-serif;
+      fill: #8b949e;
+    }
+
+    .card {
+      fill: #0d1117;
+      stroke: #30363d;
+    }
+  </style>
+
+  <rect
+    class="card"
+    x="1"
+    y="1"
+    width="598"
+    height="158"
+    rx="8"
+  />
+
+  <text x="30" y="40" class="title">
+    GitHub Activity
+  </text>
+
+  <text x="75" y="95" text-anchor="middle" class="number">
+    71
+  </text>
+
+  <text x="75" y="120" text-anchor="middle" class="label">
+    Commits
+  </text>
+
+  <text x="300" y="95" text-anchor="middle" class="number">
+    3
+  </text>
+
+  <text x="300" y="120" text-anchor="middle" class="label">
+    Repositories
+  </text>
+
+  <text x="525" y="95" text-anchor="middle" class="number">
+    7
+  </text>
+
+  <text x="525" y="120" text-anchor="middle" class="label">
+    Pull Requests
+  </text>
+
+</svg>
